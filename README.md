@@ -2,13 +2,13 @@
 <h1 align="center">Welcome to my Github! I'm HERE! 👋</h1>
 
 <h3 align='center'>
-  Full Stack Developer
+  Full Stack Web & Mobile Developer
 </h4>
 
 ## About me:
 
 <p>
-As a senior Full-Stack Web Developer, I have over 8 years of experience in frontend, backend development. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
+As a senior Full-Stack Web & Mobile Developer, I have over 6+ years of experience in frontend, backend development. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
 As a fast learner and problem solver, I want to apply my software development skills as a senior Full-Stack developer and I like to learn new technology.
 </p>
 
@@ -18,9 +18,11 @@ As a fast learner and problem solver, I want to apply my software development sk
 
 ▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS
 
-▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails
+▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails | Nest.js
 
 ▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
+
+▲ ChatBot Development : Telegram | Discord | Twitter | AI Chatbot | Trading Bot | Cryptocurrency
 
 <br>
 
