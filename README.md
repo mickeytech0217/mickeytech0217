@@ -8,21 +8,21 @@
 ## About me:
 
 <p>
-As a senior Full-Stack Web & Mobile Developer, I have over 6+ years of experience in frontend, backend development. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
+As a senior Full-Stack Web & Mobile Developer, I have over 6+ years of experience in frontend, backend development. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain and AI technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
 As a fast learner and problem solver, I want to apply my software development skills as a senior Full-Stack developer and I like to learn new technology.
 </p>
 
 <h2>My Major Skills</h2>
 
-▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang
+▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang | C#
 
 ▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS
 
-▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails | Nest.js
+▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails | Nest.js | ASP.NET
 
 ▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
 
-▲ ChatBot Development : Telegram | Discord | Twitter | AI Chatbot | Trading Bot | Cryptocurrency
+▲ ChatBot Development : Telegram Bot | Discord Bot | Chatgpt | AI Chatbot | Trading Bot | Cryptocurrency | AI/ML
 
 <br>
 
